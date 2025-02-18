@@ -1,5 +1,5 @@
 class example
 public static void main(int args[])
 {
-	print("hello");
+	print("Hello");
 }
